@@ -1,6 +1,3 @@
-Here is a **medium-length, professional GitHub description** (balanced — not too long, not too short):
-
----
 
 ## 📊 Customer Churn Prediction & High-Value Customer Segmentation
 
@@ -24,11 +21,3 @@ SHAP explainability is integrated to identify key churn-driving features such as
 Beyond prediction, the project introduces a **High-Value Customer (HVC) scoring mechanism** that combines churn probability with normalized service usage to identify high-risk, high-revenue customers. Automated retention recommendations are generated to support targeted marketing and loyalty strategies.
 
 Built using Python, pandas, scikit-learn, XGBoost, SHAP, and imbalanced-learn.
-
----
-
-If you want, I can also give:
-
-* 🔹 A resume version (5–6 lines impact-focused)
-* 🔹 A recruiter-friendly version
-* 🔹 A technical-heavy version for GitHub stars
